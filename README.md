@@ -1,6 +1,40 @@
 # DG-M1Q
 DG-M1Q 2017 Smart Home 960P 2.8mm
 
+Hardware
+
+See the below link
+http://www.gokemicro.com/GK7102.html
+```
+CPU core: ARM1176 @ 600MHZ, 16KB I-Cache, 16KB D-Cache
+40nm process, BGA228 package (11 * 11)
+High integration: integrated 512Mb DDR2, Ethernet PHY, Audio Codec, MCU, eFuse
+Excellent ISP performance 
+- Image processing: 3A, WDR, 3D noise reduction, gamma conversion, RGB filtering, dead pixel correction, black level correction, lens survey 
+- Intelligent analysis: motion detection, face detection, peripheral prevention, legacy Object identification
+Encoding Performance 
+- Video: Supports H.264 BP / MP / HP, MJPEG / JPEG 
+- Audio: Supports G.711 / G.726 / ADPCM / MP3
+Maximum support 4-way encoding 
+processing capability - 960P @ 30fps + VGA @ 30fps + QCIF @ 30fps + 960P JPEG @ 1fps 
+- 720P @ 30fps + VGA @ 30fps + QCIF @ 30fps + 720P JPEG @ 1fps
+Audio interface 
+- through the I2S interface, Audio Codec built-in external optional two 
+- external, can support two-channel stereo
+Video 
+interface - support 8/10/12 bit RGB Bayer input 
+- support 1 CVBS output
+Peripheral Interface 
+- 2.0 the USB Host / Device X1 
+- the ETH the MAC + a PHY the X1 
+- X3 the UART, the SPI an X2 
+- the I2C an X2, X4 the PWM 
+- the I2S an X2, X1 SDIO2.0, the IrDA X1
+Low power: 800mw (including DDR), true standby function: system standby current 60uA
+Fast wake-up: support for infrared and key to wake up
+AES, DES, 3DES security engine
+```
+
 Notes:
 
 
