@@ -1,9 +1,19 @@
 # DG-M1Q
+
 DG-M1Q 2017 Smart Home 960P 2.8mm
 
-Hardware
+## RTSP
+Test Camera via RTSP & VLC
+
+VLC -> Media -> Open Network Stream
+
+rtsp://admin:20160404@192.168.1.14/onvif1 (Stream 1)
+rtsp://admin:20160404@192.168.1.14/onvif2 (Stream 2 ????)
+
+## Hardware
 
 See the below link
+
 http://www.gokemicro.com/GK7102.html
 ```
 CPU core: ARM1176 @ 600MHZ, 16KB I-Cache, 16KB D-Cache
