@@ -6,6 +6,13 @@ DG-M1Q 2017 Smart Home 960P 2.8mm
 
 http://adamwesterberg.se/blog/cheap-chinese-camera-teardown
 
+
+## Other Resources
+
+http://robert.penz.name/1348/hikam-a7-iot-security-at-its-worst/
+
+https://4pda.ru/forum/index.php?showtopic=681058
+
 ## RTSP
 Test Camera via RTSP & VLC
 
