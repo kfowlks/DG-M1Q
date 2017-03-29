@@ -2,6 +2,10 @@
 
 DG-M1Q 2017 Smart Home 960P 2.8mm
 
+## Teardown (ESCAM Button Q6 based on same chipset)
+
+http://adamwesterberg.se/blog/cheap-chinese-camera-teardown
+
 ## RTSP
 Test Camera via RTSP & VLC
 
